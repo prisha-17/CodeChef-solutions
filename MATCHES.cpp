@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+ using namespace std;
 void func(int sum)
 {
     int match=0;
